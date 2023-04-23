@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/101180377/193478988-f8324382-5688-469a-bf46-c4a0760e1e6d.png)
 
 ## Ссылка на github pages 
-alexfinokhin.github.io/react-mesto-auth
+https://alexfinokhin.github.io/react-mesto-auth/
 ## Базовые технологии, которые использовались в проекте: 
 1. БЭМ
 2. Nested
