@@ -32,6 +32,6 @@
 ***
 [Открыть сайт в браузере](https://AlexFinokhin.github.io/react-mesto-auth/)\
 [Ссылка на макет в Figma 1](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)\
-[Ссылка на макет в Figma 2](https://www.figma.com/file/PSdQFRHoxXJFs2FH8IXViF/JavaScript.-Sprint-9?type=design&node-id=0-1&mode=design&t=RsWA3WSJtlAPvEhN-0)
+[Ссылка на макет в Figma 2](https://www.figma.com/file/PSdQFRHoxXJFs2FH8IXViF/JavaScript.-Sprint-9?type=design&node-id=0-1&mode=design&t=RsWA3WSJtlAPvEhN-0)\
 [Ссылка на макет в Figma 3](https://www.figma.com/file/5H3gsn5lIGPwzBPby9jAOo/JavaScript.-Sprint-12?type=design&node-id=0-1&mode=design&t=O3CpiR3ZWHQSVTFp-0)
 
